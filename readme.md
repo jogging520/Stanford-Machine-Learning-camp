@@ -1,4 +1,4 @@
-# 斯坦福大学机器学习训练营(Andrew Ng)
+# NorthBrain吴恩达机器学习课程
 
 
 ## 课程资料
@@ -21,18 +21,12 @@
 6. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
 7. [机器学习代码修行100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)  
 8. [吴恩达机器学习新书：machine learning yearning](https://github.com/AcceptedDoge/machine-learning-yearning-cn)  
-9. [本人博客(机器学习基础算法专题)](https://blog.csdn.net/dukuku5038/article/details/82253966)  
-10. [本人博客(深度学习专题)](https://blog.csdn.net/column/details/28693.html)  
-11. [自上而下的学习路线: 软件工程师的机器学习](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  
+9. [自上而下的学习路线: 软件工程师的机器学习](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)  
 
 
 
 ## 1. 前言 
 ### 这门课的宗旨就是：**“手把手推导机器学习理论，行对行练习徒手代码过程” ** 
-
-吴恩达在斯坦福的机器学习课，是很多人最初入门机器学习的课，10年有余，目前仍然是最经典的机器学习课程之一。当时因为这门课太火爆，吴恩达不得不弄了个超大的网络课程来授课，结果一不小心从斯坦福火遍全球，而后来的事情大家都知道了。吴恩达这些年，从谷歌大脑项目到创立Coursera再到百度首席科学家再再到最新开设了深度学习deeplearning.ai，辗转多年依然对CS229不离不弃。  
-
-个人认为：吴恩达的机器学习课程在机器学习入门的贡献相当于牛顿、莱布尼茨对于微积分的贡献。区别在于，吴恩达影响了10年，牛顿影响了200年。(个人观点)
 
 本课程提供了一个广泛的介绍机器学习、数据挖掘、统计模式识别的课程。主题包括：
 
@@ -76,19 +70,9 @@
 - 周日晚上提交作业运行截图  
 - 周三、周六休息^_^  
 
-#### 6.作业提交指南：  
- 训练营的作业自检系统已经正式上线啦！只需将作业发送到训练营公共邮箱即可，知识星球以打卡为主，不用提交作业。以下为注意事项:  
-<0> 课程资料：[链接]() 密码：
-<1> 训练营代码公共邮箱：cs229@163.com  
-<2> [查询自己成绩:]()  
-<3> 将每周作业压缩成zip文件，文件名为“学号+作业编号”，例如："CS229-010037-01.zip"  
-<4> 注意不要改变作业中的《方法名》《类名》不然会检测失败！！ 
-
 ## 7.学习安排
 ### week 1  
-**学习组队**  
-**比赛观摩**  
-
+预习内容  
 **作业 Week1：**:  
 制定自己的学习计划  
 
@@ -116,8 +100,8 @@
 		2.8接下来的内容:[GradientDescentForLinearRegression](https://www.bilibili.com/video/av9912938/?p=12)                                     
 
 **作业 Week2：**:  
-1.环境配置  
-2.开学习博客和github  
+环境配置  
+
 
 ---------------------------------------------------------
 ### week 3   
@@ -365,7 +349,6 @@
 
 **作业 Week11：**: [作业链接](https://github.com/learning511/Stanford-Machine-Learning-camp/blob/master/Assignments/machine-learning-ex8/ex8.pdf)  
 2.推荐系统实现 Recommender Systems  
-**课程比赛：比赛介绍: **  
 
 ---------------------------------------------------------
 
@@ -373,7 +356,6 @@
 **第十九节：总结(Conclusion)**  
 **视频：**  
 19.1总结和致谢:[Summary and Thank You](https://www.bilibili.com/video/av9912938/?p=113)  
-**课程比赛：比赛: **  
- Kaggle 比赛： 泰坦尼克 Titanic
+
  
  ---------------------------------------------------------
